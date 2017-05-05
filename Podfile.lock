@@ -1,0 +1,17 @@
+PODS:
+  - JSPatch (1.1.3):
+    - JSPatch/Core (= 1.1.3)
+  - JSPatch/Core (1.1.3)
+  - SSZipArchive (1.8.1)
+
+DEPENDENCIES:
+  - JSPatch
+  - SSZipArchive
+
+SPEC CHECKSUMS:
+  JSPatch: 02cfed591cb907bbfe80a346666e5a35fc2d349d
+  SSZipArchive: 04547dfa448be5ed7ecbaf7eaf8a6e9eb9b42997
+
+PODFILE CHECKSUM: 5b560c04c7b6276da956a2fa8081dde11bf93bd6
+
+COCOAPODS: 1.1.1
