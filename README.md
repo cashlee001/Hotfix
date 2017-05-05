@@ -13,16 +13,6 @@ __DJComponentHotfix 是使用JSPatch做Hotfix的一种客户端方案.__
 Build and run the `DJComponentHotfix.xcodeproj` in Xcode.
 
 
-## 安装使用
-
-###  CocoaPods
-修改 Podfile 添加 DJComponentHotfix:
-
-``` bash
-pod 'DJComponentHotfix'
-```
-
-
 ### API
 * DJHotfixManager 提供了基本的补丁下载已经执行的逻辑。
 * DJHotfixHelper 提供了简单的存储和数据校验。
@@ -36,14 +26,6 @@ pod 'DJComponentHotfix'
     
 JSPatch: [JSPatch](https://github.com/bang590/JSPatch)
 
-
-## Contact
-
-Dokay Dou
-
-- https://github.com/Dokay
-- http://www.douzhongxu.com
-- dokay_dou@163.com
 
 ## License
 
